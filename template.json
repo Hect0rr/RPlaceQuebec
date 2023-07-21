@@ -1,0 +1,15 @@
+{
+  "contact": "",
+  "templates": [
+    {
+      "name": "Quebec",
+      "sources": [
+        "https://media.discordapp.net/attachments/699007311963750490/1131754402890391703/download_1.png"
+      ],
+      "x": 952,
+      "y": 629
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
